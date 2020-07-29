@@ -8,8 +8,8 @@ Even though it is a simple app, but it is built with an OOP approach. (Object-Or
 it is a simple and easy to use, when the user clicks on the **Generate Random Color** button, the body of the whole page will be changed to the generated color.
 
  <br/><br/> 
-You can view the project here: <br/>
-[Random Color Generator](https://ahmed-alawi-ba.github.io/random-color-generator/)
+You can view the project from here: &nbsp; &nbsp; 
+[Random Color Generator preview](https://ahmed-alawi-ba.github.io/random-color-generator/)
 
 
 
