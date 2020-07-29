@@ -4,7 +4,7 @@ A simple JavaScript project to generate random colors (vanilla JavaScript, no fr
 <br/>
 Even though it is a simple app, but it is built with an OOP approach. (Object-Oriented-Programming)
 <br/><br/>
-it is a simple and easy to use, when the user clicks on the **Generate Random Color** button, the body of the whole page will be changed to the generated color.
+it is a simple and easy to use, when the user clicks on the **Generate** button, the body of the whole page will be changed to the generated color.
 
  <br/><br/> <br/>
 You can view the project from here: <br/><br/>
