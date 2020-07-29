@@ -8,7 +8,7 @@ it is a simple and easy to use, when the user clicks on the <strong>Generate Ran
 
  <br/><br/> <br/>
 You can view the project from here: <br/><br/>
-[Random Color Generator preview](https://ahmed-alawi-ba.github.io/random-color-generator/)
+[Random Color Generator preview](https://ahmed-alawi-ba.github.io/Random-Color-Generator/)
 
 
 
